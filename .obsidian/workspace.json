@@ -11,8 +11,12 @@
             "id": "d18c6a8bb411622e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Tartarus.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Areas/Tartarus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Areas/Tartarus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +124,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Areas/Tartarus.md"
+              }
+            }
+          },
+          {
+            "id": "b101a3487127704c",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
@@ -140,12 +156,12 @@
   },
   "active": "d18c6a8bb411622e",
   "lastOpenFiles": [
+    "Areas/Asphodel.md",
     "Areas/Temple_of_Styx.md",
     "Areas/Elysium.md",
     "Areas/Tartarus.md",
     "Bosses.md",
     "Bosses/Theseus_and_Asterius.md",
-    "Areas/Asphodel.md",
     "Areas.md",
     "Overview.md",
     "Areas",
