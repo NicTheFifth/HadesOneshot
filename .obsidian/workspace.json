@@ -140,9 +140,11 @@
   },
   "active": "d18c6a8bb411622e",
   "lastOpenFiles": [
-    "Areas/Tartarus.md",
-    "Areas/Asphodel.md",
+    "Overview.md",
     "Areas.md",
+    "Areas/Asphodel.md",
+    "Areas/Tartarus.md",
+    "Bosses.md",
     "Areas",
     "Bosses/Theseus_and_Asterius.md",
     "Bosses/Hades.md",
@@ -150,14 +152,12 @@
     "Bosses/Furies/Tisiphone.md",
     "Bosses/Furies/Megaera.md",
     "Bosses/Furies/Alecto.md",
-    "Bosses.md",
     "Bosses/Furies",
     "Bosses",
     "Furies/Tisiphone.md",
     "Furies/Alecto.md",
     "Furies/Megaera.md",
     "Furies",
-    "Overview.md",
     "Bone_Hydra.md",
     "Weapons.md"
   ]
