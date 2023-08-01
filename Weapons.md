@@ -9,5 +9,5 @@ A ranged, medium damage weapon, has a low damage cone AOE special.
 [Twin Fists of Malphon](Twin_Fists_of_Malphon.md)
 A melee, high damage weapon, has a medium damage linear AOE special.
 [Adamant Rail](Adamant_Rail.md)
-A ranged, medium damage weapon, has a medium damage circ
+A ranged, medium damage weapon, has a medium damage circular AOE special.
 
