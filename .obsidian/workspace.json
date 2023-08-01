@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "87ade97cc7779d4b",
+        "id": "6ae6dd944dd940c5",
         "type": "tabs",
         "children": [
           {
-            "id": "e4f89fada84e04aa",
+            "id": "d18c6a8bb411622e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tartarus.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tartarus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tartarus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tartarus.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4f89fada84e04aa",
+  "active": "d18c6a8bb411622e",
   "lastOpenFiles": [
-    "Bosses.md",
-    "Tartarus.md",
+    "Areas/Asphodel.md",
+    "Areas/Tartarus.md",
     "Areas.md",
+    "Areas",
+    "Bosses/Theseus_and_Asterius.md",
+    "Bosses/Hades.md",
+    "Bosses/Bone_Hydra.md",
+    "Bosses/Furies/Tisiphone.md",
+    "Bosses/Furies/Megaera.md",
+    "Bosses/Furies/Alecto.md",
+    "Bosses.md",
+    "Bosses/Furies",
+    "Bosses",
+    "Furies/Tisiphone.md",
+    "Furies/Alecto.md",
+    "Furies/Megaera.md",
+    "Furies",
     "Overview.md",
     "Bone_Hydra.md",
     "Weapons.md"

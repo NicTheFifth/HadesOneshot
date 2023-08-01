@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#overview",
@@ -13,18 +13,25 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "tag:#Tartarus",
+      "color": {
+        "a": 1,
+        "rgb": 3302450
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "lineSizeMultiplier": 1.79713541666667,
+  "collapse-forces": false,
+  "centerStrength": 0.203125,
+  "repelStrength": 4.73958333333333,
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
-  "close": true
+  "close": false
 }
