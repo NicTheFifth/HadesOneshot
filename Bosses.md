@@ -1,7 +1,14 @@
 #overview
-[Megaera](Megaera.md)
-[Alecto](Alecto.md)
-[Tisiphone](Tisiphone.md)
-[Bone Hydra](Bone_Hydra.md)
-[Theseus and Asterius](Theseus_and_Asterius.md)
-[Hades](Hades.md)
+
+# Room 14 (one of)
+* [Megaera](Megaera.md)
+* [Alecto](Alecto.md)
+* [Tisiphone](Tisiphone.md)
+
+# Room 24
+* [Bone Hydra](Bone_Hydra.md)
+
+# Room 36
+* [Theseus and Asterius](Theseus_and_Asterius.md)
+# Final Boss
+* [Hades](Hades.md)
