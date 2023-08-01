@@ -1,6 +1,6 @@
 #Asphodel 
 
-Asphodel is the second area, it starts at chamber 15, after the boss fight of Tartarus, and continues up until chamber 24, which is its boss chamber.
+Asphodel is the second area, it starts at chamber 15, after the boss fight of Tartarus and continues up until chamber 24, which is its boss chamber.
 
 # Enemies
 
