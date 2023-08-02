@@ -4,7 +4,8 @@ The Heart-Seeking Bow was once wielded by lady Hera, arrows darkening the sky in
 
 The Heart-Seeking Bow has a base damage of 1d6, having a range of 6 squares. You may charge the bow for one turn to increase the range by 3 squares.
 
-Your special shoots arrows in a 5 long cone, becoming two squares longer each square away from you. It does 1d4 damage, and does not continue beyond if an enemy is hit. (arrow pattern is shown below)
+Your special shoots arrows in a 5 long cone, becoming two squares longer each square away from you. It does 1d4 damage, and does not continue beyond if an enemy is hit. (arrow pattern is shown below and only straights lines are discontinued, diagonals still fire)
 
+![[Drawing 2023-08-02 07.38.36.excalidraw]]
 
 
