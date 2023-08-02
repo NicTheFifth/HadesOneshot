@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons/Stygian Blade.md",
+                "file": "Weapons.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons/Stygian Blade.md",
+                "file": "Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons/Stygian Blade.md",
+                "file": "Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons/Stygian Blade.md"
+                "file": "Weapons.md"
               }
             }
           },
@@ -157,6 +157,13 @@
   },
   "active": "87f10c901370fe9e",
   "lastOpenFiles": [
+    "Overview.md",
+    "Bosses.md",
+    "Boons.md",
+    "Base Mechanics.md",
+    "Areas.md",
+    "Weapons/Twin Fists of Malphon.md",
+    "Weapons/Stygian Blade.md",
     "Weapons/Shield of Chaos.md",
     "Weapons/Heart-Seeking Bow.md",
     "Weapons/Eternal Spear.md",
@@ -172,18 +179,11 @@
     "Areas/Elysium.md",
     "Areas/Asphodel.md",
     "Weapons.md",
-    "Weapons/Stygian Blade.md",
     "Excalidraw/Drawing 2023-08-02 07.38.36.excalidraw.md",
     "Excalidraw/Arrow cone.png",
     "Excalidraw/Drawing 2023-08-02 07.44.42.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
-    "Weapons/Twin Fists of Malphon.md",
-    "Bosses.md",
-    "Areas.md",
-    "Base Mechanics.md",
-    "Overview.md",
-    "Boons.md",
     "Weapons/Stygian.md",
     "Weapons",
     "Areas",
