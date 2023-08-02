@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons/Adamant Rail.md",
+                "file": "Weapons/Heart-Seeking Bow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons/Adamant Rail.md",
+                "file": "Weapons/Heart-Seeking Bow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons/Adamant Rail.md",
+                "file": "Weapons/Heart-Seeking Bow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons/Adamant Rail.md"
+                "file": "Weapons/Heart-Seeking Bow.md"
               }
             }
           },
@@ -162,6 +162,7 @@
     "Weapons/Stygian Blade.md",
     "Weapons/Twin Fists of Malphon.md",
     "Weapons/Adamant Rail.md",
+    "Weapons.md",
     "Bosses.md",
     "Areas/Temple of Styx.md",
     "Areas/Asphodel.md",
@@ -169,7 +170,6 @@
     "Areas/Tartarus.md",
     "Areas.md",
     "Base Mechanics.md",
-    "Weapons.md",
     "Overview.md",
     "Boons.md",
     "Weapons/Stygian.md",

@@ -1,3 +1,5 @@
+#weapon 
+
 The Stygian Blade was wielded by the might lord Poseidon, vanquishing his parents, the titans. Sadly now it is broken, but despair not, as the great prince Zagreus managed to turn Tartarus upside down with it, something you will undoubtably manage too.
 
   
