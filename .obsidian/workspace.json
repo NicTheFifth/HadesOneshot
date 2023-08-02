@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons/Eternal Spear.md",
+                "file": "Weapons/Shield of Chaos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons/Eternal Spear.md",
+                "file": "Weapons/Shield of Chaos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons/Eternal Spear.md",
+                "file": "Weapons/Shield of Chaos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons/Eternal Spear.md"
+                "file": "Weapons/Shield of Chaos.md"
               }
             }
           },
@@ -157,17 +157,18 @@
   },
   "active": "87f10c901370fe9e",
   "lastOpenFiles": [
+    "Weapons/Heart-Seeking Bow.md",
     "Weapons/Shield of Chaos.md",
-    "Weapons.md",
+    "Enemies.md",
     "Overview.md",
+    "Weapons/Eternal Spear.md",
+    "Weapons.md",
     "Bosses.md",
     "Boons.md",
     "Base Mechanics.md",
     "Areas.md",
     "Weapons/Twin Fists of Malphon.md",
     "Weapons/Stygian Blade.md",
-    "Weapons/Heart-Seeking Bow.md",
-    "Weapons/Eternal Spear.md",
     "Weapons/Adamant Rail.md",
     "Bosses/Theseus and Asterius.md",
     "Bosses/Hades.md",
