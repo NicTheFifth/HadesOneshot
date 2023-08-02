@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons/Adamant Rail.md",
+                "file": "Weapons.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons/Adamant Rail.md",
+                "file": "Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons/Adamant Rail.md",
+                "file": "Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons/Adamant Rail.md"
+                "file": "Weapons.md"
               }
             }
           },
@@ -156,11 +156,11 @@
   },
   "active": "d18c6a8bb411622e",
   "lastOpenFiles": [
-    "Weapons/Stygian Blade.md",
-    "Weapons/Twin Fists of Malphon.md",
-    "Weapons.md",
-    "Boons.md",
     "Weapons/Adamant Rail.md",
+    "Weapons/Stygian Blade.md",
+    "Weapons.md",
+    "Weapons/Twin Fists of Malphon.md",
+    "Boons.md",
     "Weapons/Stygian.md",
     "Overview.md",
     "Areas/Temple of Styx.md",
