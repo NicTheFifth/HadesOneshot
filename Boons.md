@@ -28,3 +28,9 @@ As said above, you may only have one each of the normal, special and dodge boons
 2. and the replacement boon will be one rarity higher.
 
 These rules establish that a heroic boon will not have a possible replacement.
+
+## Gods
+
+As said above, boons are linked to a god. There is a possibility of 9 gods. However, in a campaign, you will have a limit on how many gods are possible. The limit of gods is 3. How this works in practice is that when you have boons from 3 different gods, these gods are the only gods you will still get. 
+
+This means, if you remove a boon, which means you have boons from two gods only, you can get a third boon from any god again.
