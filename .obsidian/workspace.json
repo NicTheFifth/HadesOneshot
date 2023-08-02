@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons.md",
+                "file": "Weapons/Adamant Rail.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons.md",
+                "file": "Weapons/Adamant Rail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons.md",
+                "file": "Weapons/Adamant Rail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons.md"
+                "file": "Weapons/Adamant Rail.md"
               }
             }
           },
@@ -156,17 +156,19 @@
   },
   "active": "d18c6a8bb411622e",
   "lastOpenFiles": [
+    "Weapons.md",
+    "Weapons/Adamant Rail.md",
+    "Areas/Temple of Styx.md",
+    "Bosses/Bone Hydra.md",
+    "Weapons",
     "Boons.md",
     "Areas/Tartarus.md",
     "Areas/Elysium.md",
     "Areas.md",
-    "Weapons.md",
     "Areas/Asphodel.md",
-    "Areas/Temple_of_Styx.md",
     "Bosses/Furies/Alecto.md",
     "Bosses/Furies/Megaera.md",
     "Bosses/Furies/Tisiphone.md",
-    "Bosses/Bone_Hydra.md",
     "Bosses/Hades.md",
     "Bosses/Theseus_and_Asterius.md",
     "Overview.md",

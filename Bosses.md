@@ -6,7 +6,7 @@
 * [Tisiphone](Bosses/Furies/Tisiphone.md)
 
 # Room 24
-* [Bone Hydra](Bosses/Bone_Hydra.md)
+* [Bone Hydra](Bone%20Hydra.md)
 
 # Room 36
 * [Theseus and Asterius](Bosses/Theseus_and_Asterius.md)

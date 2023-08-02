@@ -6,4 +6,4 @@ Asphodel is the second area, it starts at chamber 15, after the boss fight of Ta
 
 # Boss
 
-The boss of Asphodel is the [Bone Hydra Lernie](Bosses/Bone_Hydra.md). It has a couple of variations, which are described on its page.
+The boss of Asphodel is the [Bone Hydra Lernie](Bone%20Hydra.md). It has a couple of variations, which are described on its page.
