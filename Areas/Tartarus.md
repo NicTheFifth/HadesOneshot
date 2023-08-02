@@ -1,10 +1,11 @@
 #Tartarus
 
 Tartarus is the starting area, it has 13 chambers, before the boss in chamber 14. 
+## Enemies
 
-# Enemies
+## Environmental dangers
 
-# Boss
+## Boss
 
 Tartarus has three possible bosses, to choose which one your party fights, roll a d6 or, if using obsidian, use the dice roller below.
 
