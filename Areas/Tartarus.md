@@ -3,7 +3,9 @@
 Tartarus is the starting area, it has 13 chambers, before the boss in chamber 14. 
 ## Enemies
 
+
 ## Environmental dangers
+
 
 ## Boss
 

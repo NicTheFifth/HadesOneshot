@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons.md",
+                "file": "Areas/Temple of Styx.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons.md",
+                "file": "Areas/Temple of Styx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons.md",
+                "file": "Areas/Temple of Styx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons.md"
+                "file": "Areas/Temple of Styx.md"
               }
             }
           },
@@ -156,33 +156,36 @@
   },
   "active": "d18c6a8bb411622e",
   "lastOpenFiles": [
+    "Areas/Asphodel.md",
+    "Areas/Elysium.md",
+    "Areas/Tartarus.md",
+    "Areas.md",
+    "Base Mechanics.md",
+    "Weapons.md",
+    "Overview.md",
+    "Bosses.md",
+    "Boons.md",
+    "Weapons/Shield of Chaos.md",
+    "Weapons/Eternal Spear.md",
+    "Weapons/Heart-Seeking Bow.md",
     "Weapons/Adamant Rail.md",
     "Weapons/Stygian Blade.md",
-    "Weapons.md",
     "Weapons/Twin Fists of Malphon.md",
-    "Boons.md",
     "Weapons/Stygian.md",
-    "Overview.md",
     "Areas/Temple of Styx.md",
     "Bosses/Bone Hydra.md",
     "Weapons",
-    "Areas/Tartarus.md",
-    "Areas/Elysium.md",
-    "Areas.md",
-    "Areas/Asphodel.md",
     "Bosses/Furies/Alecto.md",
     "Bosses/Furies/Megaera.md",
     "Bosses/Furies/Tisiphone.md",
     "Bosses/Hades.md",
     "Bosses/Theseus_and_Asterius.md",
-    "Bosses.md",
     "Areas",
     "Bosses/Furies",
     "Bosses",
     "Furies/Tisiphone.md",
     "Furies/Alecto.md",
     "Furies/Megaera.md",
-    "Furies",
-    "Bone_Hydra.md"
+    "Furies"
   ]
 }
