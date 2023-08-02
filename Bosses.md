@@ -9,6 +9,6 @@
 * [Bone Hydra](Bone%20Hydra.md)
 
 # Room 36
-* [Theseus and Asterius](Bosses/Theseus_and_Asterius.md)
+* [Theseus and Asterius](Theseus%20and%20Asterius.md)
 # Final Boss
 * [Hades](Bosses/Hades.md)

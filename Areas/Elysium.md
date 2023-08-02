@@ -7,4 +7,4 @@ Elysium is the third area, it starts at chamber 25, after the boss fight of Asph
 
 # Boss
 
-Elysium has one boss, the pair [Theseus and Asterius](Bosses/Theseus_and_Asterius). Theseus has a second phase, which has a couple variations. This is explained on their page.
+Elysium has one boss, the pair [Theseus and Asterius](Theseus%20and%20Asterius.md). Theseus has a second phase, which has a couple variations. This is explained on their page.

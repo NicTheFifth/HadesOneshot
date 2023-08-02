@@ -6,3 +6,5 @@ The Heart-Seeking Bow has a base damage of 1d6, having a range of 6 squares. You
 
 Your special shoots arrows in a 5 long cone, becoming two squares longer each square away from you. It does 1d4 damage, and does not continue beyond if an enemy is hit. (arrow pattern is shown below)
 
+
+
