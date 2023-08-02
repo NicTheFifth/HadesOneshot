@@ -2,8 +2,17 @@ Boons are power ups given by the nine Olympian gods and are applied to all playe
 
 ## Level
 
-Boons have levels and can be levelled up. When a boon is levelled up, it gains strength, though its effect
+Boons have levels and can be levelled up. When a boon is levelled up, it gains strength. The strength gained has diminishing returns, thus levelling the same boon again and again is not advisable for the players. There will be a table on each boons page on how it levels.
 
+## Rarity
+
+Boons also have a rarity, which in unique circumstances can be levelled up. There exist four rarities for boons, that being:
+* Normal;
+* Rare;
+* Epic;
+* and Heroic.
+
+Once a boon has reached Heroic, it cannot get stronger through upgrading its rarity. A boon's initial strength is boosted with each step up in rarity, which also translates to levelling it. There will be a table on each boons page on how it changes strength with rarity.
 ## Type
 
 Each boon has a type, this is: normal, special, dodge and unique. You can have only one each of the normal, special and dodge boon. Of the unique type, you can (in theory) get all.
@@ -17,3 +26,5 @@ The unique type boons add a general modifier and has no limit on how many of thi
 As said above, you may only have one each of the normal, special and dodge boons. However, there exists a mechanic that allows you to switch to another god's boon. The rule for this is the following:
 1. The replacement boon will be the same level as the existing boon;
 2. and the replacement boon will be one rarity higher.
+
+These rules establish that a heroic boon will not have a possible replacement.
