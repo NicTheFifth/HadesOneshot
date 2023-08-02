@@ -2,4 +2,4 @@
 [Areas](Areas.md)
 [Enemies](Enemies.md)
 	[Bosses](Bosses.md)
-[Boons](Boons.)
+[Boons](Boons.md)

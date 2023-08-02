@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Elysium.md",
+                "file": "Boons.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Elysium.md",
+                "file": "Boons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Elysium.md",
+                "file": "Boons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Elysium.md"
+                "file": "Boons.md"
               }
             }
           },
@@ -156,14 +156,15 @@
   },
   "active": "d18c6a8bb411622e",
   "lastOpenFiles": [
+    "Boons.md",
+    "Overview.md",
+    "Areas/Elysium.md",
     "Areas/Asphodel.md",
     "Areas/Tartarus.md",
-    "Areas/Elysium.md",
     "Areas/Temple_of_Styx.md",
     "Bosses.md",
     "Bosses/Theseus_and_Asterius.md",
     "Areas.md",
-    "Overview.md",
     "Areas",
     "Bosses/Hades.md",
     "Bosses/Bone_Hydra.md",
