@@ -11,12 +11,8 @@
             "id": "d18c6a8bb411622e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boons.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Boons.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +148,10 @@
   },
   "active": "d18c6a8bb411622e",
   "lastOpenFiles": [
+    "Boons.md",
     "Areas/Tartarus.md",
     "Areas/Elysium.md",
     "Areas.md",
-    "Boons.md",
     "Weapons.md",
     "Areas/Asphodel.md",
     "Areas/Temple_of_Styx.md",
