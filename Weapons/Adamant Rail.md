@@ -8,4 +8,4 @@ The Adamant Rail has a base max ammo of 6, however it may be increased as you st
 
 Reloading is a bonus action.
 
-Your special is a grenade, it targets a 3x3 tile, within 9 tiles. It does 1d6 damage on hit. It does no friendly fire, however who knows what happens when it is stronger.
+Your special is a grenade, it targets a 3x3 tile, within 9 tiles. It does 1d8 damage on hit. It does no friendly fire, however who knows what happens when it is stronger.
