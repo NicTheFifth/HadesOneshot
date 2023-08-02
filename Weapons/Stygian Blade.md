@@ -1,0 +1,1 @@
+The Stygian Blade was wielded by the might lord Poseidon, vanquishing his 
