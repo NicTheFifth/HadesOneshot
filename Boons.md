@@ -1,4 +1,4 @@
-Boons are power ups given by the nine Olympian gods and are applied to all players. Thus the players have to pick one boon per option and this is applied for all.
+Boons are power ups given by the nine Olympian gods and are applied to all players. Thus the players have to pick one boon per option and this is applied to all.
 
 ## Level
 
@@ -33,4 +33,4 @@ These rules establish that a heroic boon will not have a possible replacement.
 
 As said above, boons are linked to a god. There is a possibility of 9 gods. However, in a campaign, you will have a limit on how many gods are possible. The limit of gods is 3. How this works in practice is that when you have boons from 3 different gods, these gods are the only gods you will still get. 
 
-This means, if you remove a boon, which means you have boons from two gods only, you can get a third boon from any god again.
+This means, if you remove a boon, which causes you to have boons from two gods only, you can get a third boon from any god again.
