@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons/Heart-Seeking Bow.md",
+                "file": "Enemies/Wretched Thug.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons/Heart-Seeking Bow.md",
+                "file": "Enemies/Wretched Thug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons/Heart-Seeking Bow.md",
+                "file": "Enemies/Wretched Thug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons/Heart-Seeking Bow.md"
+                "file": "Enemies/Wretched Thug.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   "active": "87f10c901370fe9e",
   "lastOpenFiles": [
     "Enemies/Wretched Witch.md",
+    "Weapons/Heart-Seeking Bow.md",
     "Enemies/Wretched Thug.md",
     "Weapons/Twin Fists of Malphon.md",
     "Weapons/Stygian Blade.md",
@@ -167,7 +168,6 @@
     "Boons.md",
     "Excalidraw/Drawing 2023-08-02 07.38.36.excalidraw.md",
     "Weapons/Eternal Spear.md",
-    "Weapons/Heart-Seeking Bow.md",
     "Areas/Tartarus.md",
     "Areas.md",
     "Base Mechanics.md",
