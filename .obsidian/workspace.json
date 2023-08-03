@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons/Heart-Seeking Bow.md",
+                "file": "Enemies/Wretched Witch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons/Heart-Seeking Bow.md",
+                "file": "Enemies/Wretched Witch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons/Heart-Seeking Bow.md",
+                "file": "Enemies/Wretched Witch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons/Heart-Seeking Bow.md"
+                "file": "Enemies/Wretched Witch.md"
               }
             }
           },
@@ -157,11 +157,11 @@
   },
   "active": "87f10c901370fe9e",
   "lastOpenFiles": [
+    "Enemies/Wretched Thug.md",
+    "Weapons/Heart-Seeking Bow.md",
     "Weapons/Eternal Spear.md",
     "Weapons/Adamant Rail.md",
-    "Enemies/Wretched Thug.md",
     "Enemies/Wretched Witch.md",
-    "Weapons/Heart-Seeking Bow.md",
     "Weapons/Twin Fists of Malphon.md",
     "Weapons/Stygian Blade.md",
     "Weapons/Shield of Chaos.md",
