@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons/Adamant Rail.md",
+                "file": "Weapons/Heart-Seeking Bow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons/Adamant Rail.md",
+                "file": "Weapons/Heart-Seeking Bow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons/Adamant Rail.md",
+                "file": "Weapons/Heart-Seeking Bow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons/Adamant Rail.md"
+                "file": "Weapons/Heart-Seeking Bow.md"
               }
             }
           },
@@ -157,17 +157,17 @@
   },
   "active": "87f10c901370fe9e",
   "lastOpenFiles": [
+    "Weapons/Eternal Spear.md",
+    "Weapons/Adamant Rail.md",
     "Enemies/Wretched Thug.md",
     "Enemies/Wretched Witch.md",
     "Weapons/Heart-Seeking Bow.md",
     "Weapons/Twin Fists of Malphon.md",
     "Weapons/Stygian Blade.md",
     "Weapons/Shield of Chaos.md",
-    "Weapons/Adamant Rail.md",
     "Bosses.md",
     "Boons.md",
     "Excalidraw/Drawing 2023-08-02 07.38.36.excalidraw.md",
-    "Weapons/Eternal Spear.md",
     "Areas/Tartarus.md",
     "Areas.md",
     "Base Mechanics.md",
