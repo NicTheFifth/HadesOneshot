@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons/Eternal Spear.md",
+                "file": "Boons.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons/Eternal Spear.md",
+                "file": "Boons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons/Eternal Spear.md",
+                "file": "Boons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons/Eternal Spear.md"
+                "file": "Boons.md"
               }
             }
           },
@@ -158,11 +158,13 @@
   "active": "87f10c901370fe9e",
   "lastOpenFiles": [
     "Weapons/Adamant Rail.md",
+    "Weapons/Eternal Spear.md",
+    "Weapons/Heart-Seeking Bow.md",
     "Weapons/Stygian Blade.md",
+    "Weapons/Twin Fists of Malphon.md",
     "Weapons/Shield of Chaos.md",
     "Areas/Tartarus.md",
     "Areas.md",
-    "Weapons/Twin Fists of Malphon.md",
     "Boons.md",
     "Base Mechanics.md",
     "Bosses/Hades.md",
@@ -170,10 +172,8 @@
     "Weapons.md",
     "Enemies.md",
     "Bosses.md",
-    "Weapons/Heart-Seeking Bow.md",
     "Enemies/Wretched Witch.md",
     "Enemies/Wretched Thug.md",
-    "Weapons/Eternal Spear.md",
     "Enemies",
     "Bosses/Theseus and Asterius.md",
     "Bosses/Bone Hydra.md",
