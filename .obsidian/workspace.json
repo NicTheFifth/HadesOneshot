@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enemies/Wretched Thug.md",
+                "file": "Weapons/Heart-Seeking Bow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enemies/Wretched Thug.md",
+                "file": "Weapons/Heart-Seeking Bow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enemies/Wretched Thug.md",
+                "file": "Weapons/Heart-Seeking Bow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enemies/Wretched Thug.md"
+                "file": "Weapons/Heart-Seeking Bow.md"
               }
             }
           },
@@ -157,21 +157,21 @@
   },
   "active": "87f10c901370fe9e",
   "lastOpenFiles": [
-    "Enemies.md",
+    "Weapons/Twin Fists of Malphon.md",
+    "Weapons/Stygian Blade.md",
+    "Weapons/Shield of Chaos.md",
+    "Weapons/Heart-Seeking Bow.md",
+    "Weapons/Eternal Spear.md",
+    "Weapons/Adamant Rail.md",
     "Enemies/Wretched Thug.md",
+    "Enemies.md",
     "Enemies",
     "Bosses.md",
-    "Weapons/Shield of Chaos.md",
-    "Weapons/Stygian Blade.md",
-    "Weapons/Heart-Seeking Bow.md",
     "Overview.md",
-    "Weapons/Eternal Spear.md",
     "Weapons.md",
     "Boons.md",
     "Base Mechanics.md",
     "Areas.md",
-    "Weapons/Twin Fists of Malphon.md",
-    "Weapons/Adamant Rail.md",
     "Bosses/Theseus and Asterius.md",
     "Bosses/Hades.md",
     "Bosses/Bone Hydra.md",
