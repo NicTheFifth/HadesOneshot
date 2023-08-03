@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boons.md",
+                "file": "Weapons/Adamant Rail.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boons.md",
+                "file": "Weapons/Adamant Rail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boons.md",
+                "file": "Weapons/Adamant Rail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boons.md"
+                "file": "Weapons/Adamant Rail.md"
               }
             }
           },
@@ -157,6 +157,11 @@
   },
   "active": "87f10c901370fe9e",
   "lastOpenFiles": [
+    "Bosses.md",
+    "Boons.md",
+    "Enemies/Wretched Witch.md",
+    "Enemies/Wretched Thug.md",
+    "Excalidraw/Drawing 2023-08-02 07.38.36.excalidraw.md",
     "Weapons/Adamant Rail.md",
     "Weapons/Eternal Spear.md",
     "Weapons/Heart-Seeking Bow.md",
@@ -165,15 +170,11 @@
     "Weapons/Shield of Chaos.md",
     "Areas/Tartarus.md",
     "Areas.md",
-    "Boons.md",
     "Base Mechanics.md",
     "Bosses/Hades.md",
     "Overview.md",
     "Weapons.md",
     "Enemies.md",
-    "Bosses.md",
-    "Enemies/Wretched Witch.md",
-    "Enemies/Wretched Thug.md",
     "Enemies",
     "Bosses/Theseus and Asterius.md",
     "Bosses/Bone Hydra.md",
@@ -183,7 +184,6 @@
     "Areas/Temple of Styx.md",
     "Areas/Elysium.md",
     "Areas/Asphodel.md",
-    "Excalidraw/Drawing 2023-08-02 07.38.36.excalidraw.md",
     "Excalidraw/Arrow cone.png",
     "Excalidraw",
     "Untitled.canvas",
