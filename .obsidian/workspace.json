@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons/Stygian Blade.md",
+                "file": "Weapons/Adamant Rail.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons/Stygian Blade.md",
+                "file": "Weapons/Adamant Rail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons/Stygian Blade.md",
+                "file": "Weapons/Adamant Rail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons/Stygian Blade.md"
+                "file": "Weapons/Adamant Rail.md"
               }
             }
           },
@@ -157,14 +157,14 @@
   },
   "active": "87f10c901370fe9e",
   "lastOpenFiles": [
-    "Weapons/Adamant Rail.md",
-    "Overview.md",
     "Enemies/Wretched Witch.md",
     "Enemies/Wretched Thug.md",
+    "Weapons/Adamant Rail.md",
+    "Weapons/Stygian Blade.md",
+    "Overview.md",
     "Weapons/Heart-Seeking Bow.md",
     "Weapons/Eternal Spear.md",
     "Weapons/Twin Fists of Malphon.md",
-    "Weapons/Stygian Blade.md",
     "Weapons/Shield of Chaos.md",
     "Bosses.md",
     "Boons.md",
