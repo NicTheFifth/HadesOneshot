@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons/Adamant Rail.md",
+                "file": "Enemies/Wretched Witch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons/Adamant Rail.md",
+                "file": "Enemies/Wretched Witch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons/Adamant Rail.md",
+                "file": "Enemies/Wretched Witch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons/Adamant Rail.md"
+                "file": "Enemies/Wretched Witch.md"
               }
             }
           },
@@ -157,10 +157,20 @@
   },
   "active": "87f10c901370fe9e",
   "lastOpenFiles": [
-    "Enemies/Wretched Witch.md",
     "Enemies/Wretched Thug.md",
-    "Weapons/Adamant Rail.md",
+    "Areas/Tartarus.md",
+    "Areas/Temple of Styx.md",
+    "Areas/Elysium.md",
+    "Areas/Asphodel.md",
+    "Bosses/Theseus and Asterius.md",
+    "Bosses/Hades.md",
+    "Bosses/Bone Hydra.md",
+    "Bosses/Furies/Tisiphone.md",
+    "Bosses/Furies/Megaera.md",
+    "Bosses/Furies/Alecto.md",
     "Weapons/Stygian Blade.md",
+    "Weapons/Adamant Rail.md",
+    "Enemies/Wretched Witch.md",
     "Overview.md",
     "Weapons/Heart-Seeking Bow.md",
     "Weapons/Eternal Spear.md",
@@ -169,21 +179,11 @@
     "Bosses.md",
     "Boons.md",
     "Excalidraw/Drawing 2023-08-02 07.38.36.excalidraw.md",
-    "Areas/Tartarus.md",
     "Areas.md",
     "Base Mechanics.md",
-    "Bosses/Hades.md",
     "Weapons.md",
     "Enemies.md",
     "Enemies",
-    "Bosses/Theseus and Asterius.md",
-    "Bosses/Bone Hydra.md",
-    "Bosses/Furies/Tisiphone.md",
-    "Bosses/Furies/Megaera.md",
-    "Bosses/Furies/Alecto.md",
-    "Areas/Temple of Styx.md",
-    "Areas/Elysium.md",
-    "Areas/Asphodel.md",
     "Excalidraw/Arrow cone.png",
     "Excalidraw",
     "Untitled.canvas",
