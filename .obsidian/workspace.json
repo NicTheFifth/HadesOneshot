@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons/Stygian Blade.md",
+                "file": "Weapons/Twin Fists of Malphon.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons/Stygian Blade.md",
+                "file": "Weapons/Twin Fists of Malphon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons/Stygian Blade.md",
+                "file": "Weapons/Twin Fists of Malphon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons/Stygian Blade.md"
+                "file": "Weapons/Twin Fists of Malphon.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "87f10c901370fe9e",
   "lastOpenFiles": [
+    "Weapons/Stygian Blade.md",
     "Weapons/Adamant Rail.md",
     "Enemies/Wretched Thug.md",
     "Enemies/Wretched Witch.md",
@@ -180,7 +181,6 @@
     "Bosses/Furies/Tisiphone.md",
     "Bosses/Furies/Megaera.md",
     "Bosses/Furies/Alecto.md",
-    "Weapons/Stygian Blade.md",
     "Overview.md",
     "Weapons/Heart-Seeking Bow.md",
     "Weapons/Eternal Spear.md",
