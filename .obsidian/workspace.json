@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enemies/Wretched Witch.md",
+                "file": "Enemies/Wretched Thug.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enemies/Wretched Witch.md",
+                "file": "Enemies/Wretched Thug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enemies/Wretched Witch.md",
+                "file": "Enemies/Wretched Thug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enemies/Wretched Witch.md"
+                "file": "Enemies/Wretched Thug.md"
               }
             }
           },
@@ -166,8 +165,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e63d6802b641621",
+  "active": "87f10c901370fe9e",
   "lastOpenFiles": [
+    "Enemies/Wretched Witch.md",
     "Enemies/Wretched Thug.md",
     "Areas/Tartarus.md",
     "Areas/Temple of Styx.md",
@@ -181,7 +181,6 @@
     "Bosses/Furies/Alecto.md",
     "Weapons/Stygian Blade.md",
     "Weapons/Adamant Rail.md",
-    "Enemies/Wretched Witch.md",
     "Overview.md",
     "Weapons/Heart-Seeking Bow.md",
     "Weapons/Eternal Spear.md",
