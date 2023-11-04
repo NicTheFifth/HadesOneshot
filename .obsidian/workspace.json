@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enemies/Wretched Witch.md",
+                "file": "Areas/Tartarus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enemies/Wretched Witch.md",
+                "file": "Areas/Tartarus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enemies/Wretched Witch.md",
+                "file": "Areas/Tartarus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enemies/Wretched Witch.md"
+                "file": "Areas/Tartarus.md"
               }
             }
           },
@@ -157,24 +157,24 @@
   },
   "active": "87f10c901370fe9e",
   "lastOpenFiles": [
-    "Enemies/Wretched Thug.md",
+    "Areas.md",
+    "Base Mechanics.md",
+    "Boons.md",
+    "Weapons.md",
+    "Enemies.md",
+    "Bosses.md",
+    "Weapons/Twin Fists of Malphon.md",
+    "Weapons/Stygian Blade.md",
+    "Weapons/Shield of Chaos.md",
     "Weapons/Heart-Seeking Bow.md",
     "Weapons/Eternal Spear.md",
     "Weapons/Adamant Rail.md",
     "Enemies/Wretched Witch.md",
-    "Weapons/Twin Fists of Malphon.md",
-    "Weapons/Stygian Blade.md",
-    "Weapons/Shield of Chaos.md",
-    "Bosses.md",
-    "Boons.md",
+    "Enemies/Wretched Thug.md",
     "Excalidraw/Drawing 2023-08-02 07.38.36.excalidraw.md",
     "Areas/Tartarus.md",
-    "Areas.md",
-    "Base Mechanics.md",
     "Bosses/Hades.md",
     "Overview.md",
-    "Weapons.md",
-    "Enemies.md",
     "Enemies",
     "Bosses/Theseus and Asterius.md",
     "Bosses/Bone Hydra.md",
