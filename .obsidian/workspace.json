@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1bdaa12e73754b7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Tartarus.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Tartarus.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Tartarus.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,8 +168,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "87f10c901370fe9e",
+  "active": "1bdaa12e73754b7f",
   "lastOpenFiles": [
+    "Areas/Tartarus.md",
+    "conflict-files-obsidian-git.md",
     "Areas.md",
     "Base Mechanics.md",
     "Boons.md",
@@ -172,7 +187,6 @@
     "Enemies/Wretched Witch.md",
     "Enemies/Wretched Thug.md",
     "Excalidraw/Drawing 2023-08-02 07.38.36.excalidraw.md",
-    "Areas/Tartarus.md",
     "Bosses/Hades.md",
     "Overview.md",
     "Enemies",
@@ -183,7 +197,6 @@
     "Bosses/Furies/Alecto.md",
     "Areas/Temple of Styx.md",
     "Areas/Elysium.md",
-    "Areas/Asphodel.md",
     "Excalidraw/Arrow cone.png",
     "Excalidraw",
     "Untitled.canvas",
