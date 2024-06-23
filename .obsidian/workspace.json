@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "983514e18dec6290",
+        "id": "231caad3e7fddfad",
         "type": "tabs",
         "children": [
           {
-            "id": "87f10c901370fe9e",
+            "id": "e34f2ad8fc0d455f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weapons/Eternal Spear.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7b1997925d4b46e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons/Eternal Spear.md",
+                "file": "Weapons/Adamant Rail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons/Eternal Spear.md",
+                "file": "Weapons/Adamant Rail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons/Eternal Spear.md"
+                "file": "Weapons/Adamant Rail.md"
               }
             }
           },
@@ -166,35 +151,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7b1997925d4b46e",
+  "active": "e34f2ad8fc0d455f",
   "lastOpenFiles": [
+    "Areas/Tartarus.md",
+    "conflict-files-obsidian-git.md",
+    "Areas.md",
+    "Base Mechanics.md",
+    "Boons.md",
+    "Weapons.md",
+    "Enemies.md",
+    "Bosses.md",
     "Weapons/Twin Fists of Malphon.md",
     "Weapons/Stygian Blade.md",
+    "Weapons/Shield of Chaos.md",
+    "Weapons/Heart-Seeking Bow.md",
+    "Weapons/Eternal Spear.md",
     "Weapons/Adamant Rail.md",
-    "Enemies/Wretched Thug.md",
     "Enemies/Wretched Witch.md",
-    "Areas/Tartarus.md",
-    "Areas/Temple of Styx.md",
-    "Areas/Elysium.md",
-    "Areas/Asphodel.md",
-    "Bosses/Theseus and Asterius.md",
+    "Enemies/Wretched Thug.md",
+    "Excalidraw/Drawing 2023-08-02 07.38.36.excalidraw.md",
     "Bosses/Hades.md",
+    "Overview.md",
+    "Enemies",
+    "Bosses/Theseus and Asterius.md",
     "Bosses/Bone Hydra.md",
     "Bosses/Furies/Tisiphone.md",
     "Bosses/Furies/Megaera.md",
     "Bosses/Furies/Alecto.md",
-    "Overview.md",
-    "Weapons/Heart-Seeking Bow.md",
-    "Weapons/Eternal Spear.md",
-    "Weapons/Shield of Chaos.md",
-    "Bosses.md",
-    "Boons.md",
-    "Excalidraw/Drawing 2023-08-02 07.38.36.excalidraw.md",
-    "Areas.md",
-    "Base Mechanics.md",
-    "Weapons.md",
-    "Enemies.md",
-    "Enemies",
+    "Areas/Temple of Styx.md",
+    "Areas/Elysium.md",
     "Excalidraw/Arrow cone.png",
     "Excalidraw",
     "Untitled.canvas",
