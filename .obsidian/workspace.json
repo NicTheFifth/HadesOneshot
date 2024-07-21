@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons/Eternal Spear.md",
+                "file": "Weapons/Heart-Seeking Bow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons/Eternal Spear.md",
+                "file": "Weapons/Heart-Seeking Bow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons/Eternal Spear.md",
+                "file": "Weapons/Heart-Seeking Bow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons/Eternal Spear.md"
+                "file": "Weapons/Heart-Seeking Bow.md"
               }
             }
           },
@@ -155,8 +155,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "87f10c901370fe9e",
+  "active": "1d35748a0d077c90",
   "lastOpenFiles": [
+    "Weapons/Eternal Spear.md",
     "Weapons/Twin Fists of Malphon.md",
     "Weapons/Stygian Blade.md",
     "Weapons/Adamant Rail.md",
@@ -174,7 +175,6 @@
     "Bosses/Furies/Alecto.md",
     "Overview.md",
     "Weapons/Heart-Seeking Bow.md",
-    "Weapons/Eternal Spear.md",
     "Weapons/Shield of Chaos.md",
     "Bosses.md",
     "Boons.md",
