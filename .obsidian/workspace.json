@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c1de2f13116f7f4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "de27f020509f33a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons/Heart-Seeking Bow.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons/Heart-Seeking Bow.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons/Heart-Seeking Bow.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,8 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d35748a0d077c90",
+  "active": "de27f020509f33a2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Weapons/Heart-Seeking Bow.md",
     "Weapons/Eternal Spear.md",
     "Weapons/Twin Fists of Malphon.md",
     "Weapons/Stygian Blade.md",
@@ -174,7 +199,6 @@
     "Bosses/Furies/Megaera.md",
     "Bosses/Furies/Alecto.md",
     "Overview.md",
-    "Weapons/Heart-Seeking Bow.md",
     "Weapons/Shield of Chaos.md",
     "Bosses.md",
     "Boons.md",
@@ -182,7 +206,6 @@
     "Areas.md",
     "Base Mechanics.md",
     "Weapons.md",
-    "Enemies.md",
     "Enemies",
     "Excalidraw/Arrow cone.png",
     "Excalidraw",
